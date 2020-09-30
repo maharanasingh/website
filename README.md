@@ -54,5 +54,6 @@ The new page will be created in the `pages` directory
 ```bash
 make post
 ```
+### Share with world
 
 The new post will be created in the `posts` directory
